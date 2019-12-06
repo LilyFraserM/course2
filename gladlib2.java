@@ -157,7 +157,7 @@ public class GladLib {
 /**
  * Write a description of gladlib2 here.
  * 
- * @author (your name) 
+ * @author (LilyFraser) 
  * @version (a version number or a date)
  */
 public class gladlib2 {
