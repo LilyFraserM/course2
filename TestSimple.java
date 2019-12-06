@@ -2,7 +2,7 @@
 /**
  * Write a description of TestSimple here.
  * 
- * @author (your name) 
+ * @author (LilyFraser) 
  * @version (a version number or a date)
  */
 public class TestSimple{
